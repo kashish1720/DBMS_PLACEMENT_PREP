@@ -15,9 +15,9 @@
 ## 📊 Progress Tracker
 
 <!-- PROGRESS:START -->
-![Progress](https://img.shields.io/badge/Progress-4%25-red?style=for-the-badge) ![Tasks](https://img.shields.io/badge/Tasks-2%2F49-blue?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-0%25-red?style=for-the-badge) ![Tasks](https://img.shields.io/badge/Tasks-0%2F49-blue?style=for-the-badge)
 
-**Overall:** `⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜` **4%** (2/49 tasks done)
+**Overall:** `⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜` **0%** (0/49 tasks done)
 <!-- PROGRESS:END -->
 
 👉 **Tick karne ke liye:** [📈 Progress Tracker issue kholo](../../issues) aur checkbox par click karo. Yeh bar apne aap update ho jaayega.
