@@ -84,6 +84,7 @@ Jab same data kai jagah store ho aur ek jagah update ho jaaye aur doosri jagah n
 Cost, complexity (skilled staff chahiye), aur chhote kaam ke liye performance overhead.
 
 # Types of DBMS
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/b0477a2e-cefe-4927-a7b3-7d6ef26a63a7" />
 
 DBMS alag-alag tareeke se data store karte hain. Is hisaab se 6 main types hain.
 
