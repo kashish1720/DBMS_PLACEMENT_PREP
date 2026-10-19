@@ -54,3 +54,5 @@ SQL, DBMS internals, OS basics, scripting (Python/Shell), troubleshooting, secur
 (a) System DBA (b) Database Architect (c) Security DBA (d) Cloud DBA
 
 **Q2.** Intern ko sirf `SELECT` permission dena DBA ke kaun se role mein aata hai?
+
+
